@@ -5,8 +5,6 @@ This is a sample of code from my game Skycadia for the Nintendo Switch, Xbox Ser
 ### Trailer on YouTube:
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/gDtXkr43mto/0.jpg)](http://www.youtube.com/watch?v=gDtXkr43mto "Video Title")
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=gDtXkr43mto" target="_blank" rel="noopener noreferrer"><img src="http://img.youtube.com/vi/gDtXkr43mto/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
 [SWITCH](http://bit.ly/3RDHXxF) | [STEAM](http://bit.ly/32S03G2) | [XBOX](http://bit.ly/3aYlCsF) | [DISCORD](http://discord.gg/WKfCXKnh5b)
 
 ## Features
