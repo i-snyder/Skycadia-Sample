@@ -15,3 +15,5 @@ This is a sample of code from my game Skycadia for the Nintendo Switch, Xbox Ser
 - Optimized physics and rendering to support a wide range of platforms
 - Developed code, editor tools, and UI to support creation of customizable pilots, ships, and weapons
 - Trained and mentored over a dozen interns in all aspects of game development, including C# programming for complex interconnected game systems
+
+[MORE INFO]([https://www.google.com](https://iansnyder.games/#studionisse))
